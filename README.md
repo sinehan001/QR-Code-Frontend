@@ -17,7 +17,7 @@ This project is a solution to the QR code challenge on Frontend Mentor. The goal
 
 ## Screenshot
 
-![Project Screenshot Desktop](assets/screenshot(Desktop).png)
+![Project Screenshot Desktop](https://github.com/sinehan001/QR-Code-Frontend/blob/main/assets/Screenshot(Desktop).png)
 ![Project Screenshot Mobile](assets/screenshot(Mobile).png)
 
 ## Links
